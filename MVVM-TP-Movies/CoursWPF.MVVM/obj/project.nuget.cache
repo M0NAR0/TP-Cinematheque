@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rqe1z0H7hRR1gEDez9hAY/QWO42VnoqCxmfZznYaP9l1XwXobnA7UtlxruRKgMFBBNqQkLN7YtlRRw5rQbkPOQ==",
+  "success": true,
+  "projectFilePath": "C:\\workspaces\\workspace-vs\\MVVM-TP-Movies\\CoursWPF.MVVM\\CoursWPF.MVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FRBG074\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

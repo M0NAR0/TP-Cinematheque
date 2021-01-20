@@ -1,0 +1,105 @@
+
+À rendre pour le 22 janvier
+bin sans /bin et /obj
+
+-------------------------------------------------------------------------------------------------------------------------
+
+TP Noté :
+
+Vous devez réaliser une application qui permet de rechercher dans une librairie de film.
+L'utilisateur doit pouvoir :
+- Rechercher dans une base de données de films (les critères de recherche sont à définir par vous)
+- Afficher les informations d'un film
+- Ajouter le film à sa collection privée
+- Visualiser et rechercher dans sa collection (les critères sont à définir par vous)
+- La collection privée doit permettre de définir des informations complémentaires (ma note, je l'ai vu/ à voir, tags...)
+- La collection privée doit être persistante d'une utilisation à l'autre
+
+Contrainte techniques :
+- Pour la base de données des films, vous devez utiliser l'API : http://www.omdbapi.com/
+- Utiliser la technologie WPF
+- Respecter le modèle MVVM
+
+Attention à la qualité du code (norme de code, commentaires...)
+
+Une documentation explicative de votre projet est attendue.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+http://www.omdbapi.com/?i=tt3896198&apikey=4a49a57b
+http://www.omdbapi.com/?t=Blade+Runner+2049
+http://www.omdbapi.com/?i=tt1856101
+http://www.omdbapi.com/?s=
+
+{
+	"Title":"Blade Runner 2049",
+	"Year":"2017",
+	"Rated":"R",
+	"Released":"06 Oct 2017",
+	"Runtime":"164 min",
+	"Genre":"Action, Drama, Mystery, Sci-Fi, Thriller",
+	"Director":"Denis Villeneuve",
+	"Writer":"Hampton Fancher (screenplay by), Michael Green (screenplay by), Hampton Fancher (story by), Philip K. Dick (based on characters from the novel \"Do Androids Dream of Electric Sheep?\" by)",
+	"Actors":"Ryan Gosling, Dave Bautista, Robin Wright, Mark Arnold",
+	"Plot":"Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+	"Language":"English, Finnish, Japanese, Hungarian, Russian, Somali, Spanish",
+	"Country":"USA, UK, Hungary, Canada, Spain",
+	"Awards":"Won 2 Oscars. Another 97 wins & 160 nominations.",
+	"Poster":"https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SX300.jpg",
+	"Ratings":[
+		{
+			"Source":"Internet Movie Database",
+			"Value":"8.0/10"
+		},
+		{
+			"Source":"Rotten Tomatoes",
+			"Value":"88%"
+		},
+		{
+			"Source":"Metacritic",
+			"Value":"81/100"
+		}
+	],
+	"Metascore":"81",
+	"imdbRating":"8.0",
+	"imdbVotes":"453,071",
+	"imdbID":"tt1856101",
+	"Type":"movie",
+	"DVD":"N/A",
+	"BoxOffice":"N/A",
+	"Production":"Torridon Films, Scott Free Productions, Bud Yorkin Productions, Alcon Entertainment, 16:14 Entertainment",
+	"Website":"N/A",
+	"Response":"True"
+}
+
+{
+	"Title":"Blade Runner 2049",
+	"Year":"2017",
+	"Rated":"R",
+	"Released":"06 Oct 2017",
+	"Runtime":"164 min",
+	"Genre":"Action, Drama, Mystery, Sci-Fi, Thriller",
+	"Director":"Denis Villeneuve",
+	"Writer":"Hampton Fancher (screenplay by), Michael Green (screenplay by), Hampton Fancher (story by), Philip K. Dick (based on characters from the novel \"Do Androids Dream of Electric Sheep?\" by)",
+	"Actors":"Ryan Gosling, Dave Bautista, Robin Wright, Mark Arnold",
+	"Plot":"Thirty years after the events of the first film, a new blade runner, LAPD Officer K (Ryan Gosling), unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard (Harrison Ford), a former LAPD blade runner who has been missing for 30 years.",
+	"Language":"English, Finnish, Japanese, Hungarian, Russian, Somali, Spanish",
+	"Country":"USA, UK, Hungary, Canada, Spain",
+	"Awards":"Won 2 Oscars. Another 97 wins & 160 nominations.",
+	"Poster":"https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SX300.jpg",
+	"Ratings":[
+		{
+			"Source":"Internet Movie Database",
+			"Value":"8.0/10"
+		},
+		{
+			"Source":"Rotten Tomatoes",
+			"Value":"88%"
+		},
+		{
+			"Source":"Metacritic",
+			"Value":"81/100"
+		}
+	],
+	"Metascore":"81",
+	"imdbRating":"8.0","imdbVotes":"453,623","imdbID":"tt1856101","Type":"movie","DVD":"N/A","BoxOffice":"$92,054,159","Production":"Torridon Films, Scott Free Productions, Bud Yorkin Productions, Alcon Entertainment, 16:14 Entertainment","Website":"N/A","Response":"True"}

@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\workspaces\\workspace-vs\\MVVM-TP-Movies\\CoursWPF.TPFilmLibrary\\CoursWPF.TPFilmLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\workspaces\\workspace-vs\\MVVM-TP-Movies\\CoursWPF.MVVM\\CoursWPF.MVVM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\workspaces\\workspace-vs\\MVVM-TP-Movies\\CoursWPF.MVVM\\CoursWPF.MVVM.csproj",
+        "projectName": "CoursWPF.MVVM",
+        "projectPath": "C:\\workspaces\\workspace-vs\\MVVM-TP-Movies\\CoursWPF.MVVM\\CoursWPF.MVVM.csproj",
+        "packagesPath": "C:\\Users\\FRBG074\\.nuget\\packages\\",
+        "outputPath": "C:\\workspaces\\workspace-vs\\MVVM-TP-Movies\\CoursWPF.MVVM\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FRBG074\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\workspaces\\workspace-vs\\MVVM-TP-Movies\\CoursWPF.TPFilmLibrary\\CoursWPF.TPFilmLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\workspaces\\workspace-vs\\MVVM-TP-Movies\\CoursWPF.TPFilmLibrary\\CoursWPF.TPFilmLibrary.csproj",
+        "projectName": "CoursWPF.TPFilmLibrary",
+        "projectPath": "C:\\workspaces\\workspace-vs\\MVVM-TP-Movies\\CoursWPF.TPFilmLibrary\\CoursWPF.TPFilmLibrary.csproj",
+        "packagesPath": "C:\\Users\\FRBG074\\.nuget\\packages\\",
+        "outputPath": "C:\\workspaces\\workspace-vs\\MVVM-TP-Movies\\CoursWPF.TPFilmLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FRBG074\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\workspaces\\workspace-vs\\MVVM-TP-Movies\\CoursWPF.MVVM\\CoursWPF.MVVM.csproj": {
+                "projectPath": "C:\\workspaces\\workspace-vs\\MVVM-TP-Movies\\CoursWPF.MVVM\\CoursWPF.MVVM.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\workspaces\workspace-vs\MVVM-TP-Movies\CoursWPF.MVVM\bin\Debug\netcoreapp3.0\CoursWPF.MVVM.deps.json
+C:\workspaces\workspace-vs\MVVM-TP-Movies\CoursWPF.MVVM\bin\Debug\netcoreapp3.0\CoursWPF.MVVM.dll
+C:\workspaces\workspace-vs\MVVM-TP-Movies\CoursWPF.MVVM\bin\Debug\netcoreapp3.0\CoursWPF.MVVM.pdb
+C:\workspaces\workspace-vs\MVVM-TP-Movies\CoursWPF.MVVM\obj\Debug\netcoreapp3.0\CoursWPF.MVVM.csprojAssemblyReference.cache
+C:\workspaces\workspace-vs\MVVM-TP-Movies\CoursWPF.MVVM\obj\Debug\netcoreapp3.0\CoursWPF.MVVM.AssemblyInfoInputs.cache
+C:\workspaces\workspace-vs\MVVM-TP-Movies\CoursWPF.MVVM\obj\Debug\netcoreapp3.0\CoursWPF.MVVM.AssemblyInfo.cs
+C:\workspaces\workspace-vs\MVVM-TP-Movies\CoursWPF.MVVM\obj\Debug\netcoreapp3.0\CoursWPF.MVVM.csproj.CoreCompileInputs.cache
+C:\workspaces\workspace-vs\MVVM-TP-Movies\CoursWPF.MVVM\obj\Debug\netcoreapp3.0\CoursWPF.MVVM.dll
+C:\workspaces\workspace-vs\MVVM-TP-Movies\CoursWPF.MVVM\obj\Debug\netcoreapp3.0\CoursWPF.MVVM.pdb
